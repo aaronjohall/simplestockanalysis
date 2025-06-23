@@ -1,4 +1,4 @@
-# finance-tools
+# Basic Stock Analysis Tool
 Basic stock screener or ratio calculator 
 
 # Purpose of Project
