@@ -1,12 +1,16 @@
 # Basic Stock Analysis Tool
+
 Basic stock screener or ratio calculator 
 
 # Purpose of Project
-.....tbd
+
+Learn Python through useful tool creation as a financial analyst.
 
 # Features
 Prompts user for a stock ticker e.g. 'COST'
+
 Prints out summary:
+   
     - P/E Ratio
     - Price to Book
     - Market Cap
